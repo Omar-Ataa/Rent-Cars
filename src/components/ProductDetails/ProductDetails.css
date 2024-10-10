@@ -1,0 +1,21 @@
+.breadcrmp p {
+  color: #959595;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 146%; /* 46.72px */
+}
+
+#carDetails .breadcrmp a{
+  text-decoration: none;
+  color: #959595;;
+}
+
+.car-item li {
+  color: #959595;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+.car-item li i{
+  margin-right: 10px;
+}
